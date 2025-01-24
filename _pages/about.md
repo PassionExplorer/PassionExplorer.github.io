@@ -95,26 +95,20 @@ Weiqing Yan, **Yuanyang Zhang**, Chenlei Lv, Chang Tang<sup>†</sup>, Guanghui 
 # 🎖 Honors and Awards
 - *2023.10* Outstanding Graduate Students of Yantai University.
 
-
-<!-- # 📖 Educations
+# 📖 Educations
 - 2024.09 - now, Ph.D. student, Southeast University, Nanjing, China.
 - 2021.09 - 2024.06, Master, Yantai Univeristy, Yantai, China.
 
-
-<!-- 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-
-# 💻 
--->
 # 🙋 Service
 
 - **Journal Reviewer**: IEEE TIP, IEEE TKDE, IEEE TNNLS, and more.
 
 - **Conference Reviewer**: ICLR, NeurIPS, ICML, CVPR, ICCV, ECCV, AAAI, ACMMM, ICME, and more.
   
-<!--   
-# 💬 Talks ~
- -->
+<!-- 
+# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# 💻 
+-->
