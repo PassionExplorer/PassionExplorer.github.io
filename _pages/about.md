@@ -24,19 +24,10 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 **Contact**: zhangyuanyang@seu.edu.cn
 
 # 🔥 News
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2025.01*: &nbsp; One paper about AI4Science was accepted by Nature Communications!
-- *2024.12*: &nbsp; One paper about diffusion clustering was accepted by AAAI Conference on Artificial Intelligence. Congrats to Yuanyang.
-- *2024.06*: &nbsp; We completed a comprehensive <a href="https://link.springer.com/content/pdf/10.1007/s44336-024-00001-w.pdf">survey on deep clustering</a> from the prior perspective. <a href="https://zhuanlan.zhihu.com/p/12059278751"><strong>中文简介</strong></a>
-- *2024.04*: &nbsp; One paper was accepted by IEEE Transactions on Systems, Man and Cybernetics: Systems.
-- *2024.01*: &nbsp; One paper was accepted by International Conference on Learning Representations (ICLR 2024) as  **oral**.
-- *2023.12*: &nbsp; One paper was accepted by AAAI Conference on Artificial Intelligence (AAAI 2024). Congrats to Yiding.
-- *2023.07*: &nbsp; One paper was accepted by International Conference on Computer Vision (ICCV 2023).
-- *2022.10*: &nbsp; One paper was accepted at Findings of EMNLP 2022.
-- *2022.08*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
-<!-- - *2022.05*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing  (TIP). -->
-- *2021.03*: &nbsp; One paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021), Jun, 2021. 
-<!-- Virtual-only Conference -->
+- *2024.12*: &nbsp; One paper about diffusion clustering was accepted by AAAI Conference on Artificial Intelligence (AAAI 2025). Thanks to all coauthors!
+- *2024.08*: &nbsp; One paper about 3D Gaussian was accepted by Pacific Graphics 2024. Congrats to Jingjiao.
+- *2024.02*: &nbsp; One paper was accepted by IEEE Transactions on Neural Networks and Learning Systems.
+- *2023.02*: &nbsp; One paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2023).
 
 # 📝 Publications 
 
