@@ -31,15 +31,41 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 
 # 📝 Publications 
 
-
-<div class='paper-box'>
-<div class='paper-box-image'><div>
-<!-- <div class="badge">ICLR 2024</div> -->
-<img src='images/papers/norton.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/mm23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Emo-DNA: Emotion Decoupling and Alignment Learning for Cross-Corpus Speech Emotion Recognition](https://arxiv.org/abs/2308.02190)\\
+**Jiaxin Ye**, Yujie Wei, Xin-Cheng Wen, Chenglong Ma, Zhizhong Huang, Kunhong Liu, Hongming Shan<sup>†</sup>
 
-[<em>**AAAI’25**</em>] [Incomplete Multi-view Clustering via Diffusion Contrastive Generation](https://arxiv.org/pdf/2401.16702.pdf) \\
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/icassp23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Temporal Modeling Matters: A Novel Temporal Emotional Modeling Approach for Speech Emotion Recognition](https://arxiv.org/abs/2211.08233)\\
+**JiaXin Ye**, Xin-Cheng Wen, YuJie Wei, Yong Xu, KunHong Liu<sup>†</sup>, HongMing Shan<sup>†</sup>
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/ijcai22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CTL-MTNet: A Novel CapsNet and Transfer Learning-Based Mixed Task Net for the Single-Corpus and Cross-Corpus Speech Emotion Recognition](https://arxiv.org/abs/2207.10644)\\
+Xin-Cheng Wen#, **JiaXin Ye#**, Yan Luo, Yong Xu, XuanZe Wang, ChangLi Wu, Kun-Hong Liu<sup>†</sup>
+
+</div>
+</div>
+
+---
+
+
+[<em>**AAAI’25**</em>] [Incomplete Multi-view Clustering via Diffusion Contrastive Generation]() \\
 **Yuanyang Zhang**, Yijie Lin*, Weiqing Yan, Li Yao#, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu
 
 <span style="color:red">(Oral presentation, 1.2%)</span>
@@ -53,7 +79,7 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 <a href="https://lin-yijie.github.io/projects/Norton/"><strong>Project</strong></a>
 <!-- \| -->
 <!-- <a href="https://github.com/XLearning-SCU/2024-ICLR-Norton"><strong>Code</strong></a> -->
-[![](https://img.shields.io/github/stars/XLearning-SCU/2024-ICLR-Norton?style=social&label=Stars)](https://github.com/XLearning-SCU/2024-ICLR-Norton)
+[![](https://img.shields.io/github/stars/XLearning-SCU/2024-ICLR-Norton?style=social&label=Stars)]()
 
 
 
@@ -87,10 +113,7 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 [<em>**TNNLS’24**</em>] [Anchor-sharing and Cluster-wise Contrastive Network for Multi-View Representation Learning](https://arxiv.org/pdf/2212.04085) \\
 Weiqing Yan, **Yuanyang Zhang**, Chang Tang#, Wujie Zhou, Weisi Lin
 
-<a href="https://www.bilibili.com/video/BV1gH4y1H7MQ/?spm_id_from=333.337.search-card.all.click&vd_source=c4896e9b68d2c7a283fe99a0899df781"><strong>Video</strong></a>
-\|
-<a href="https://mp.weixin.qq.com/s/yGieWt0s9jPPRX6sG03KDw"><strong>中文简介</strong></a>
-\|
+
 <a href="https://github.com/Lin-Yijie/Graph-Matching-Networks/tree/main/COMMON"><strong>Code</strong></a>
 <!-- **Code**  -->
 [![](https://img.shields.io/github/stars/Lin-Yijie/Graph-Matching-Networks?style=social&label=Stars)](https://github.com/Lin-Yijie/Graph-Matching-Networks/tree/main/COMMON)
