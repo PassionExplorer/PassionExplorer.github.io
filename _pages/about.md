@@ -18,7 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a Ph.D Student in School of Computer Science and Engineering, Southeast University, advised by Prof.[Li Yao](https://cs.seu.edu.cn/yaoli/main.htm).  
-My research interests mainly include Deep Multi-view Clustering and Computer Vision.
+
+**Research Interests**: Multi-view Learning, Multi-modal Learning, Computer Vision.
+
+**Contact**: zhangyuanyang@seu.edu.cn
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
