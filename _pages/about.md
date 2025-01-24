@@ -53,8 +53,6 @@ Jingjiao You, **Yuanyang Zhang**, Tianchen Zhou, Yecheng Zhao, Li Yao<sup>†</s
 </div>
 </div>
 
----
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024</div><img src='images/papers/ACCMVC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
