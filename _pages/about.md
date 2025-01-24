@@ -93,16 +93,12 @@ Weiqing Yan, **Yuanyang Zhang**, Chenlei Lv, Chang Tang<sup>†</sup>, Guanghui 
 ---
 
 # 🎖 Honors and Awards
-- *2023.10* National Scholarship (PhD student)
-- *2022.11* [Huawei Scholarship](https://ygb.scu.edu.cn/info/1007/2515.htm) (First prize)  
-<!-- at Sichuan University -->
-- *2021.10* Innovation Scholarship (PhD student) 
-- *2019.09* [National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201912/t20191217_412368.html) (Undergraduate, Top 1%)
+- *2023.10* Outstanding Graduate Students of Yantai University in 2023.
 
 
 <!-- # 📖 Educations
-- 2020.09 - now, Ph.D. student, Sichuan Univeristy, Chengdu.
-- 2016.09 - 2020.06, Undergraduate, Sichuan Univeristy, Chengdu. -->
+- 2024.09 - now, Ph.D. student, Southeast University, Nanjing, China.
+- 2021.09 - 2024.06, Master, Yantai Univeristy, Yantai, China.
 
 
 <!-- 
