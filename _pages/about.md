@@ -41,8 +41,6 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 </div>
 </div>
 
----
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pacific Graphics 2024</div><img src='images/papers/LO-Gaussian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
