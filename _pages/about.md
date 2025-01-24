@@ -42,7 +42,7 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/icassp23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/papers/icassp23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Temporal Modeling Matters: A Novel Temporal Emotional Modeling Approach for Speech Emotion Recognition](https://arxiv.org/abs/2211.08233)\\
@@ -53,7 +53,7 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/ijcai22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/papers/ijcai22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CTL-MTNet: A Novel CapsNet and Transfer Learning-Based Mixed Task Net for the Single-Corpus and Cross-Corpus Speech Emotion Recognition](https://arxiv.org/abs/2207.10644)\\
