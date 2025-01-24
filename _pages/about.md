@@ -31,165 +31,66 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/mm23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/papers/ijcai22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Incomplete Multi-view Clustering via Diffusion Contrastive Generation]()\\
 **Yuanyang Zhang#**, Yijie Lin#, Weiqing Yan, Li Yao<sup>†</sup>, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu
 
-[[Paper]](https://github.com/weilllllls/OnPro) [[Code]](https://github.com/weilllllls/OnPro)
-
-- OnPro is the first work to identify shortcut learning as the key limiting factor for online continual learning, offering new insights into why online learning models fail to generalize well.
+[Paper](https://) [Code](https://)
 </div>
 </div>
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/papers/icassp23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pacific Graphics 2024</div><img src='images/papers/ijcai22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Temporal Modeling Matters: A Novel Temporal Emotional Modeling Approach for Speech Emotion Recognition](https://arxiv.org/abs/2211.08233)\\
-**JiaXin Ye**, Xin-Cheng Wen, YuJie Wei, Yong Xu, KunHong Liu<sup>†</sup>, HongMing Shan<sup>†</sup>
+[LO-Gaussian: Gaussian Splatting for Low-light and Overexposure Scenes through Simulated Filter](https://arxiv.org/abs/2211.08233](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=UjeMnyMAAAAJ&citation_for_view=UjeMnyMAAAAJ:7PzlFSSx8tAC)\\
+Jingjiao You, **Yuanyang Zhang**, Tianchen Zhou, Yecheng Zhao, Li Yao<sup>†</sup>
 
+[Paper](https://arxiv.org/abs/2211.08233](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=UjeMnyMAAAAJ&citation_for_view=UjeMnyMAAAAJ:7PzlFSSx8tAC) [[Code]](https://)
 </div>
 </div>
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/papers/ijcai22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024</div><img src='images/papers/ijcai22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CTL-MTNet: A Novel CapsNet and Transfer Learning-Based Mixed Task Net for the Single-Corpus and Cross-Corpus Speech Emotion Recognition](https://arxiv.org/abs/2207.10644)\\
-Xin-Cheng Wen#, **JiaXin Ye#**, Yan Luo, Yong Xu, XuanZe Wang, ChangLi Wu, Kun-Hong Liu<sup>†</sup>
+[Anchor-sharing and Cluster-wise Contrastive Network for Multi-View Representation Learning](https://ieeexplore.ieee.org/document/10430449)\\
+Weiqing Yan, **Yuanyang Zhang**, Chang Tang<sup>†</sup>, Wujie Zhou, Weisi Lin
 
+[Paper](https://ieeexplore.ieee.org/document/10430449) [Code](https://github.com/zhangyuanyang21/2024-TNNLS-ACCMVC)
 </div>
 </div>
 
 ---
 
-
-[<em>**AAAI’25**</em>] [Incomplete Multi-view Clustering via Diffusion Contrastive Generation]() \\
-**Yuanyang Zhang**, Yijie Lin*, Weiqing Yan, Li Yao#, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu
-
-<span style="color:red">(Oral presentation, 1.2%)</span>
-\|
-<a href="https://mp.weixin.qq.com/s/q0kL62AM3G1wscTq92HIxA"><strong>中文简介</strong></a>
-\|
-<a href="https://iclr.cc/media/iclr-2024/Slides/19303.pdf"><strong>Slides</strong></a>
-\|
-<a href="https://iclr.cc/media/PosterPDFs/ICLR%202024/19303.png?t=1714532472.399705"><strong>Poster</strong></a>
-\|
-<a href="https://lin-yijie.github.io/projects/Norton/"><strong>Project</strong></a>
-<!-- \| -->
-<!-- <a href="https://github.com/XLearning-SCU/2024-ICLR-Norton"><strong>Code</strong></a> -->
-[![](https://img.shields.io/github/stars/XLearning-SCU/2024-ICLR-Norton?style=social&label=Stars)]()
-
-
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-granularity-correspondence-learning-1/long-video-retrieval-background-removed-on)](https://paperswithcode.com/sota/long-video-retrieval-background-removed-on?p=multi-granularity-correspondence-learning-1)
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-granularity-correspondence-learning-1/zero-shot-video-retrieval-on-youcook2)](https://paperswithcode.com/sota/zero-shot-video-retrieval-on-youcook2?p=multi-granularity-correspondence-learning-1)
-
-<!-- <a href="https://mp.weixin.qq.com/s/yGieWt0s9jPPRX6sG03KDw"><strong>中文简介</strong></a> -->
-<!-- \| -->
-<!-- <a href="https://github.com/Lin-Yijie/Graph-Matching-Networks/tree/main/COMMON"><strong>Code</strong></a> -->
-<!-- [![](https://img.shields.io/github/stars/Lin-Yijie/Graph-Matching-Networks?style=social&label=Stars)](https://github.com/Lin-Yijie/Graph-Matching-Networks/tree/main/COMMON) -->
-<!-- <strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:Y0pCki6q_DkC'></span></strong> -->
-
-
-- Reveal multi-granularity noisy correspondence problem in long-term temporal modeling.
-
-- Propose an efficient and robust video-language pre-training method.
-
-
-</div>
-</div>
-
-
-
-<div class='paper-box'>
-<div class='paper-box-image'><div>
-<!-- <div class="badge">ICCV 2023</div> -->
-<img src='images/papers/common.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CVPR, 2023</div><img src='images/papers/ijcai22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[<em>**TNNLS’24**</em>] [Anchor-sharing and Cluster-wise Contrastive Network for Multi-View Representation Learning](https://arxiv.org/pdf/2212.04085) \\
-Weiqing Yan, **Yuanyang Zhang**, Chang Tang#, Wujie Zhou, Weisi Lin
+[GCFAgg: Global and Cross-view Feature Aggregation for Multi-view Clustering](https://ieeexplore.ieee.org/document/10430449)\\
+Weiqing Yan, **Yuanyang Zhang**, Chenlei Lv, Chang Tang<sup>†</sup>, Guanghui Yue, Liang Liao, Weisi Lin
 
-
-<a href="https://github.com/Lin-Yijie/Graph-Matching-Networks/tree/main/COMMON"><strong>Code</strong></a>
-<!-- **Code**  -->
-[![](https://img.shields.io/github/stars/Lin-Yijie/Graph-Matching-Networks?style=social&label=Stars)](https://github.com/Lin-Yijie/Graph-Matching-Networks/tree/main/COMMON)
-<strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:Y0pCki6q_DkC'></span></strong>
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-matching-with-bi-level-noisy/graph-matching-on-spair-71k)](https://paperswithcode.com/sota/graph-matching-on-spair-71k?p=graph-matching-with-bi-level-noisy)
-- Reveal bi-level (node- and edge-level) noisy correspondence challenge. 
-- This work is included by famous open-source graph matching project [ThinkMatch](https://GitHub.com/Thinklab-SJTU/ThinkMatch/)
-[![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/ThinkMatch.svg?style=social&label=Star&maxAge=8640)](https://GitHub.com/Thinklab-SJTU/ThinkMatch/)
-
+[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_GCFAgg_Global_and_Cross-View_Feature_Aggregation_for_Multi-View_Clustering_CVPR_2023_paper.pdf) [Code](https://github.com/Galaxy922/GCFAggMVC)
 </div>
 </div>
 
+---
 
-<div class='paper-box'>
-<div class='paper-box-image'><div>
-<!-- <div class="badge">ICCV 2023</div> -->
-<img src='images/papers/common.jpg' alt="sym" width="100%"></div></div>
+## Under Review
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/ijcai22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[<em>**CVPR’23**</em>] [GCFAgg: Global and Cross-view Feature Aggregation for Multi-view Clustering](https://arxiv.org/pdf/2212.04085) \\
-Weiqing Yan, **Yuanyang Zhang**, Chenlei Lv, Chang Tang#, Guanghui Yue, Liang Liao, Weisi Lin, 
+[Multi-branch Space Sharing Feature Aggregation Network for Dual Contrastive Multi-view Representation Learning]()\\
+**Yuanyang Zhang**, Weiqing Yan<sup>†</sup>, Chang Tang, Wujie Zhou, Jian Jin
 
-<a href="https://www.bilibili.com/video/BV1gH4y1H7MQ/?spm_id_from=333.337.search-card.all.click&vd_source=c4896e9b68d2c7a283fe99a0899df781"><strong>Video</strong></a>
-\|
-<a href="https://mp.weixin.qq.com/s/yGieWt0s9jPPRX6sG03KDw"><strong>中文简介</strong></a>
-\|
-<a href="https://github.com/Lin-Yijie/Graph-Matching-Networks/tree/main/COMMON"><strong>Code</strong></a>
-<!-- **Code**  -->
-[![](https://img.shields.io/github/stars/Lin-Yijie/Graph-Matching-Networks?style=social&label=Stars)](https://github.com/Lin-Yijie/Graph-Matching-Networks/tree/main/COMMON)
-<strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:Y0pCki6q_DkC'></span></strong>
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-matching-with-bi-level-noisy/graph-matching-on-spair-71k)](https://paperswithcode.com/sota/graph-matching-on-spair-71k?p=graph-matching-with-bi-level-noisy)
-- Reveal bi-level (node- and edge-level) noisy correspondence challenge. 
-- This work is included by famous open-source graph matching project [ThinkMatch](https://GitHub.com/Thinklab-SJTU/ThinkMatch/)
-[![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/ThinkMatch.svg?style=social&label=Star&maxAge=8640)](https://GitHub.com/Thinklab-SJTU/ThinkMatch/)
-
+[[Paper]](https://) [[Code]](https://)
 </div>
 </div>
 
-
-<!-- - `TPAMI 2022` [Dual Contrastive Prediction for Incomplete Multi-view Representation Learning](http://pengxi.me/wp-content/uploads/2023/02/DCP-2023_compressed.pdf),  **Yijie Lin**, Yuanbiao Gou, Xiaotian Liu, Jinfeng Bai, Jiancheng Lv, Xi Peng
-\|
-<a href="https://cs.scu.edu.cn/info/1246/17111.htm"><strong>中文简介</strong></a>
-\|
-<a href="https://github.com/XLearning-SCU/2022-TPAMI-DCP"><strong>Code</strong></a> -->
-
-- [<em>**Nature Communications'25**</em>] MetaQ: fast, scalable and accurate metacell inference via single-cell quantization, Yunfan Li, Hancong Li, **Yijie Lin**, Dan Zhang, Dezhong Peng, Xiting Liu, Jie Xie, Peng Hu, Lu Chen,  Han Luo, Xi Peng
-
-- [<em>**AAAI'25**</em>] Incomplete Multi-view Clustering via Diffusion Contrastive Generation, Yuanyang Zhang\*, **Yijie Lin**\*, Weiqing Yan, Li Yao, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu
-
-- [<em>**NeurIPS'24**</em>] [Robust Contrastive Multi-view Clustering against Dual Noisy Correspondence](http://pengxi.me/wp-content/uploads/2024/11/Robust_Contrastive_Multi-view_Clustering_against_Dual_Noisy_Correspondence.pdf), Ruiming Guo, Mouxing Yang, **Yijie Lin**, Xi Peng,  Peng Hu 
-\| <a href="https://github.com/XLearning-SCU/2024-NeurIPS-CANDY"><strong>Code</strong></a>
-
-- [<em>**AAAI'24**</em>] [Decoupled Contrastive Multi-view Clustering with High-order Random Walks](https://arxiv.org/pdf/2308.11164.pdf), Yiding Lu, **Yijie Lin**, Mouxing Yang, Dezhong Peng, Peng Hu, Xi Peng \| <a href="https://github.com/XLearning-SCU/2024-AAAI-DIVIDE"><strong>Code</strong></a>
-[![](https://img.shields.io/github/stars/XLearning-SCU/2024-AAAI-DIVIDE?style=social&label=Stars)](https://github.com/XLearning-SCU/2024-AAAI-DIVIDE)
-
-- [<em>**Vicinagearth'24**</em>] [A survey on deep clustering: from the prior perspective](https://link.springer.com/content/pdf/10.1007/s44336-024-00001-w.pdf), Yiding Lu, Haobin Li, Yunfan Li, **Yijie Lin**, Xi Peng \| <a href="https://zhuanlan.zhihu.com/p/12059278751"><strong>中文简介</strong></a>
-
-
-- [<em>**TSMC'24**</em>] [UNITE: Multitask Learning With Sufficient Feature for Dense Prediction](https://ieeexplore.ieee.org/document/10534190), Yuxin Tian, **Yijie Lin**, Qing Ye, Jian Wang, Xi Peng, Jiancheng Lv  \| <a href="https://github.com/slyviacassell/Multi-task-UNITE"><strong>Code</strong></a>
-
-- [<em>**TNNLS'23**</em>] [Single-cell RNA-seq Debiased Clustering via Batch Effect Disentanglement](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10086540), Yunfan Li, **Yijie Lin**, Han Luo, Peng Hu, Dezhong Peng, Xi Peng 
-
-- [<em>**EMNLP Findings'22**</em>] [Improve Interpretability of Neural Networks via Sparse Contrastive Coding](https://aclanthology.org/2022.findings-emnlp.32.pdf), Junhong Liu\*,
-**Yijie Lin**\*, Liang Jiang, Jia Liu, Zujie Wen, Xi Peng
-
-- [<em>**TIP'22**</em>] [Unsupervised Neural Rendering for Image Hazing](https://ieeexplore.ieee.org/document/9788526/), Boyun Li, **Yijie Lin**, Xiao Liu, Peng Hu, Jiancheng Lv, Xi Peng
-
-<!-- Tech Report -->
-
-
-<!-- under review -->
+---
 
 # 🎖 Honors and Awards
 - *2023.10* National Scholarship (PhD student)
