@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D Student in School of Computer Science and Engineering, Southeast University, advised by Prof.[Xi Peng](http://pengxi.me).  
+I am a Ph.D Student in School of Computer Science and Engineering, Southeast University, advised by Prof.[Li Yao](https://cs.seu.edu.cn/yaoli/main.htm).  
 My research interests mainly include Deep Multi-view Clustering and Computer Vision.
 
 <!My research mainly focuses on **Multi-modal Learning**, with contributions in:
