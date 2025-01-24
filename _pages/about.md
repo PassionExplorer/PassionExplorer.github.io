@@ -37,7 +37,7 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 [Incomplete Multi-view Clustering via Diffusion Contrastive Generation]()\\
 **Yuanyang Zhang#**, Yijie Lin#, Weiqing Yan, Li Yao<sup>†</sup>, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu
 
-[Paper](https://) [Code](https://)
+[Paper]() [Code]()
 </div>
 </div>
 
@@ -86,14 +86,14 @@ Weiqing Yan, **Yuanyang Zhang**, Chenlei Lv, Chang Tang<sup>†</sup>, Guanghui 
 [Multi-branch Space Sharing Feature Aggregation Network for Dual Contrastive Multi-view Representation Learning]()\\
 **Yuanyang Zhang**, Weiqing Yan<sup>†</sup>, Chang Tang, Wujie Zhou, Jian Jin
 
-[[Paper]](https://) [[Code]](https://)
+[[Paper]]() [[Code]]()
 </div>
 </div>
 
 ---
 
 # 🎖 Honors and Awards
-- *2023.10* Outstanding Graduate Students of Yantai University in 2023.
+- *2023.10* Outstanding Graduate Students of Yantai University.
 
 
 <!-- # 📖 Educations
@@ -110,16 +110,10 @@ Weiqing Yan, **Yuanyang Zhang**, Chenlei Lv, Chang Tang<sup>†</sup>, Guanghui 
 # 💻 
 -->
 # 🙋 Service
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 
-<!-- - Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics: Systems. -->
 - **Journal Reviewer**: IEEE TIP, IEEE TKDE, IEEE TNNLS, and more.
-<!-- IEEE TCYB, IEEE TAI, IEEE TSMC, Machine Learning, Neural Networks, and more. -->
 
 - **Conference Reviewer**: ICLR, NeurIPS, ICML, CVPR, ICCV, ECCV, AAAI, ACMMM, ICME, and more.
-<!-- - Conference Reviewer: of ICLR 2023, NeurIPS 2023, ICML 2023, ICCV 2023, AAAI 2023. -->
-<!-- , CICAI 2021-2022, ICIG 2021, ACML 2021, PRCV 2021-2022 -->
-
-<!-- 
+  
 # 💬 Talks ~
  -->
