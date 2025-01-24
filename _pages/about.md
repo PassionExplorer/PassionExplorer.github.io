@@ -19,8 +19,8 @@ redirect_from:
 
 I am a Ph.D Student in School of Computer Science and Engineering, Southeast University, advised by Prof.[Li Yao](https://cs.seu.edu.cn/yaoli/main.htm).  
 My research interests mainly include Deep Multi-view Clustering and Computer Vision.
-
-<!My research mainly focuses on **Multi-modal Learning**, with contributions in:
+<!--
+My research mainly focuses on **Multi-modal Learning**, with contributions in:
 - i) Robust Multi-modal Learning: I have worked extensively on tackling challenges such as modality missing (CVPR’21, TPAMI’22, AAAI’24-25) and noisy correspondence (ICCV’23, ICLR’24, NeurIPS’24) in image/video-text and image-image data. For a comprehensive overview of our work and insights on noisy correspondence, you can explore our repository [Noisy Correspondence Summary](https://github.com/XLearning-SCU/Awesome-Noisy-Correspondence).
 - ii) Interactive Multi-modal Learning: I believe the future of multi-modal learning to center around interactions—between users, models, and external knowledge. Some of my recent work is currently under review.
 - iii) Bioinformatics: My work in this domain focuses on single-cell and multi-omics analysis, tackling key challenges such as representative cell selection (Nature Communications’25) and batch effect correction (TNNLS’23).-->
