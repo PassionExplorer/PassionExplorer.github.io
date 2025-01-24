@@ -40,7 +40,7 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 
 
 [<em>**AAAI’25**</em>] [Incomplete Multi-view Clustering via Diffusion Contrastive Generation](https://arxiv.org/pdf/2401.16702.pdf) \\
-**Yuanyang Zhang***, Yijie Lin*, Weiqing Yan, Li Yao#, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu
+**Yuanyang Zhang**, Yijie Lin*, Weiqing Yan, Li Yao#, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu
 
 <span style="color:red">(Oral presentation, 1.2%)</span>
 \|
@@ -79,40 +79,29 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 
 
 <div class='paper-box'>
-
 <div class='paper-box-image'><div>
-<!-- <div class="badge">CVPR 2021, TPAMI 2022</div> -->
-<img src='images/papers/completer.jpg' alt="sym" width="100%"></div></div>
-
+<!-- <div class="badge">ICCV 2023</div> -->
+<img src='images/papers/common.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!-- [COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_COMPLETER_Incomplete_Multi-View_Clustering_via_Contrastive_Prediction_CVPR_2021_paper.pdf) \\ -->
-[<em>**CVPR’21**</em>] [COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction](http://pengxi.me/wp-content/uploads/2021/03/2021CVPR-completer.pdf) \\
- **Yijie Lin**, Yuanbiao Gou, Zitao Liu, Boyun Li, Jiancheng Lv, Xi Peng
+[<em>**TNNLS’24**</em>] [Anchor-sharing and Cluster-wise Contrastive Network for Multi-View Representation Learning](https://arxiv.org/pdf/2212.04085) \\
+Weiqing Yan, **Yuanyang Zhang**, Chang Tang#, Wujie Zhou, Weisi Lin
 
-
-<a href="https://www.bilibili.com/video/BV1Ub4y1a7Zy?spm_id_from=333.337.search-card.all.click&vd_source=c4896e9b68d2c7a283fe99a0899df781"><strong>Video</strong></a>
+<a href="https://www.bilibili.com/video/BV1gH4y1H7MQ/?spm_id_from=333.337.search-card.all.click&vd_source=c4896e9b68d2c7a283fe99a0899df781"><strong>Video</strong></a>
 \|
-<a href="https://cs.scu.edu.cn/info/1246/15640.htm"><strong>中文简介</strong></a>
+<a href="https://mp.weixin.qq.com/s/yGieWt0s9jPPRX6sG03KDw"><strong>中文简介</strong></a>
 \|
-<a href="https://github.com/XLearning-SCU/2021-CVPR-Completer"><strong>Code</strong></a>
+<a href="https://github.com/Lin-Yijie/Graph-Matching-Networks/tree/main/COMMON"><strong>Code</strong></a>
 <!-- **Code**  -->
-[![](https://img.shields.io/github/stars/XLearning-SCU/2021-CVPR-Completer?style=social&label=Stars)](https://github.com/XLearning-SCU/2021-CVPR-Completer)
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:d1gkVwhDpl0C'></span></strong>
-<!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=KXKVYHsAAAAJ:d1gkVwhDpl0C -->
+[![](https://img.shields.io/github/stars/Lin-Yijie/Graph-Matching-Networks?style=social&label=Stars)](https://github.com/Lin-Yijie/Graph-Matching-Networks/tree/main/COMMON)
+<strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:Y0pCki6q_DkC'></span></strong>
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-matching-with-bi-level-noisy/graph-matching-on-spair-71k)](https://paperswithcode.com/sota/graph-matching-on-spair-71k?p=graph-matching-with-bi-level-noisy)
+- Reveal bi-level (node- and edge-level) noisy correspondence challenge. 
+- This work is included by famous open-source graph matching project [ThinkMatch](https://GitHub.com/Thinklab-SJTU/ThinkMatch/)
+[![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/ThinkMatch.svg?style=social&label=Star&maxAge=8640)](https://GitHub.com/Thinklab-SJTU/ThinkMatch/)
 
-[<em>**TPAMI’22**</em>] [Dual Contrastive Prediction for Incomplete Multi-view Representation Learning](http://pengxi.me/wp-content/uploads/2023/02/DCP-2023_compressed.pdf) \\
-**Yijie Lin**, Yuanbiao Gou, Xiaotian Liu, Jinfeng Bai, Jiancheng Lv, Xi Peng
-
-<a href="https://cs.scu.edu.cn/info/1246/17111.htm"><strong>中文简介</strong></a>
-\|
-<a href="https://github.com/XLearning-SCU/2022-TPAMI-DCP"><strong>Code</strong></a>
-[![](https://img.shields.io/github/stars/XLearning-SCU/2022-TPAMI-DCP?style=social&label=Stars)](https://github.com/XLearning-SCU/2022-TPAMI-DCP)
-<strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:UeHWp8X0CEIC'></span></strong>
 </div>
-
 </div>
 
 
@@ -122,8 +111,8 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 <img src='images/papers/common.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[<em>**ICCV’23**</em>] [Graph Matching with Bi-level Noisy Correspondence](https://arxiv.org/pdf/2212.04085) \\
-**Yijie Lin**, Mouxing Yang, Jun Yu, Peng Hu, Changqing Zhang, Xi Peng
+[<em>**CVPR’23**</em>] [GCFAgg: Global and Cross-view Feature Aggregation for Multi-view Clustering](https://arxiv.org/pdf/2212.04085) \\
+Weiqing Yan, **Yuanyang Zhang**, Chenlei Lv, Chang Tang#, Guanghui Yue, Liang Liao, Weisi Lin, 
 
 <a href="https://www.bilibili.com/video/BV1gH4y1H7MQ/?spm_id_from=333.337.search-card.all.click&vd_source=c4896e9b68d2c7a283fe99a0899df781"><strong>Video</strong></a>
 \|
