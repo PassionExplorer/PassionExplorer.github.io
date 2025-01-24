@@ -37,7 +37,7 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 [Incomplete Multi-view Clustering via Diffusion Contrastive Generation]()\\
 **Yuanyang Zhang#**, Yijie Lin#, Weiqing Yan, Li Yao<sup>†</sup>, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu
 
-[[Code]](https://github.com/weilllllls/OnPro)
+[[Paper]](https://github.com/weilllllls/OnPro)[[Code]](https://github.com/weilllllls/OnPro)
 
 - OnPro is the first work to identify shortcut learning as the key limiting factor for online continual learning, offering new insights into why online learning models fail to generalize well.
 </div>
