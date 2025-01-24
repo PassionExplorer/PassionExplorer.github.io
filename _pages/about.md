@@ -31,7 +31,7 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/papers/ijcai22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/papers/DCG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Incomplete Multi-view Clustering via Diffusion Contrastive Generation]()\\
@@ -43,19 +43,19 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pacific Graphics 2024</div><img src='images/papers/ijcai22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pacific Graphics 2024</div><img src='images/papers/LO-Gaussian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LO-Gaussian: Gaussian Splatting for Low-light and Overexposure Scenes through Simulated Filter](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=UjeMnyMAAAAJ&citation_for_view=UjeMnyMAAAAJ:7PzlFSSx8tAC)\\
 Jingjiao You, **Yuanyang Zhang**, Tianchen Zhou, Yecheng Zhao, Li Yao<sup>†</sup>
 
-[Paper](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=UjeMnyMAAAAJ&citation_for_view=UjeMnyMAAAAJ:7PzlFSSx8tAC) [[Code]](https://)
+[Paper](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=UjeMnyMAAAAJ&citation_for_view=UjeMnyMAAAAJ:7PzlFSSx8tAC) [Code](https://)
 </div>
 </div>
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024</div><img src='images/papers/ijcai22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024</div><img src='images/papers/ACCMVC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Anchor-sharing and Cluster-wise Contrastive Network for Multi-View Representation Learning](https://ieeexplore.ieee.org/document/10430449)\\
@@ -67,10 +67,10 @@ Weiqing Yan, **Yuanyang Zhang**, Chang Tang<sup>†</sup>, Wujie Zhou, Weisi Lin
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CVPR, 2023</div><img src='images/papers/ijcai22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CVPR, 2023</div><img src='images/papers/GCFAggMVC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GCFAgg: Global and Cross-view Feature Aggregation for Multi-view Clustering](https://ieeexplore.ieee.org/document/10430449)\\
+[GCFAgg: Global and Cross-view Feature Aggregation for Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_GCFAgg_Global_and_Cross-View_Feature_Aggregation_for_Multi-View_Clustering_CVPR_2023_paper.pdf)\\
 Weiqing Yan, **Yuanyang Zhang**, Chenlei Lv, Chang Tang<sup>†</sup>, Guanghui Yue, Liang Liao, Weisi Lin
 
 [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_GCFAgg_Global_and_Cross-View_Feature_Aggregation_for_Multi-View_Clustering_CVPR_2023_paper.pdf) [Code](https://github.com/Galaxy922/GCFAggMVC)
@@ -80,7 +80,7 @@ Weiqing Yan, **Yuanyang Zhang**, Chenlei Lv, Chang Tang<sup>†</sup>, Guanghui 
 ---
 
 ## Under Review
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/ijcai22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/MS2FA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-branch Space Sharing Feature Aggregation Network for Dual Contrastive Multi-view Representation Learning]()\\
@@ -116,7 +116,7 @@ Weiqing Yan, **Yuanyang Zhang**, Chenlei Lv, Chang Tang<sup>†</sup>, Guanghui 
 - **Journal Reviewer**: IEEE TIP, IEEE TKDE, IEEE TNNLS, and more.
 <!-- IEEE TCYB, IEEE TAI, IEEE TSMC, Machine Learning, Neural Networks, and more. -->
 
-- **Conference Reviewer**: ICLR, NeurIPS, ICML, CVPR, ICCV, ECCV, AAAI, ACMMM, and more.
+- **Conference Reviewer**: ICLR, NeurIPS, ICML, CVPR, ICCV, ECCV, AAAI, ACMMM, ICME, and more.
 <!-- - Conference Reviewer: of ICLR 2023, NeurIPS 2023, ICML 2023, ICCV 2023, AAAI 2023. -->
 <!-- , CICAI 2021-2022, ICIG 2021, ACML 2021, PRCV 2021-2022 -->
 
