@@ -28,7 +28,7 @@ My research interests mainly include Deep Multi-view Clustering and Computer Vis
 <!-- My research interests mainly focus on Multi-modal Learning and Multi-view Learning, especially the applications in open scenarios, e.g., missing modality and noisy correspondence. I am focusing on video-language currently. -->
 <!-- For exceptional works and insights on noisy correspondence, I invite you to explore our repository [Noisy Correspondence Summary](https://github.com/XLearning-SCU/Awesome-Noisy-Correspondence). -->
 
-I am currently seeking postdoctoral opportunities. If you have any advice or are interested in exploring academic collaborations, please feel free to contact me. I look forward to your insights and suggestions.
+<!-- I am currently seeking postdoctoral opportunities. If you have any advice or are interested in exploring academic collaborations, please feel free to contact me. I look forward to your insights and suggestions. -->
 
 <!-- (sentence-visual pairs). -->
 
