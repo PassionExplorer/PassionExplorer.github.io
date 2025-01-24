@@ -46,10 +46,10 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pacific Graphics 2024</div><img src='images/papers/ijcai22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LO-Gaussian: Gaussian Splatting for Low-light and Overexposure Scenes through Simulated Filter](https://arxiv.org/abs/2211.08233](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=UjeMnyMAAAAJ&citation_for_view=UjeMnyMAAAAJ:7PzlFSSx8tAC)\\
+[LO-Gaussian: Gaussian Splatting for Low-light and Overexposure Scenes through Simulated Filter](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=UjeMnyMAAAAJ&citation_for_view=UjeMnyMAAAAJ:7PzlFSSx8tAC)\\
 Jingjiao You, **Yuanyang Zhang**, Tianchen Zhou, Yecheng Zhao, Li Yao<sup>†</sup>
 
-[Paper](https://arxiv.org/abs/2211.08233](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=UjeMnyMAAAAJ&citation_for_view=UjeMnyMAAAAJ:7PzlFSSx8tAC) [[Code]](https://)
+[Paper](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=UjeMnyMAAAAJ&citation_for_view=UjeMnyMAAAAJ:7PzlFSSx8tAC) [[Code]](https://)
 </div>
 </div>
 
