@@ -24,7 +24,7 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 **Contact**: zhangyuanyang@seu.edu.cn
 
 # 🔥 News
-- *2024.12*: &nbsp; One paper about diffusion clustering was accepted by AAAI Conference on Artificial Intelligence (AAAI 2025). Thanks to all coauthors!
+- *2024.12*: &nbsp; One paper about diffusion clustering was accepted by AAAI Conference on Artificial Intelligence. Thanks to all coauthors!
 - *2024.08*: &nbsp; One paper about 3D Gaussian was accepted by Pacific Graphics 2024. Congrats to Jingjiao.
 - *2024.02*: &nbsp; One paper was accepted by IEEE Transactions on Neural Networks and Learning Systems.
 - *2023.02*: &nbsp; One paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2023).
@@ -39,8 +39,8 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 <div class='paper-box-text' markdown="1">
 
 
-[<em>**ICLR’24**</em>] [Multi-granularity Correspondence Learning from Long-term Noisy Videos](https://arxiv.org/pdf/2401.16702.pdf) \\
-**Yijie Lin**, Jie Zhang, Zhenyu Huang, Jia Liu, Zujie Wen, Xi Peng
+[<em>**AAAI’25**</em>] [Incomplete Multi-view Clustering via Diffusion Contrastive Generation](https://arxiv.org/pdf/2401.16702.pdf) \\
+**Yuanyang Zhang***, Yijie Lin*, Weiqing Yan, Li Yao#, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu
 
 <span style="color:red">(Oral presentation, 1.2%)</span>
 \|
