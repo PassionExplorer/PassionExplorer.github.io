@@ -34,6 +34,18 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/papers/DCG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/MS2FA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-branch Space Sharing Feature Aggregation for contrastive multi-view clustering]()\\
+**Yuanyang Zhang**, Weiqing Yan<sup>†</sup>, Chang Tang, Wujie Zhou, Jian Jin
+
+[[Paper]]() [[Code]]()
+</div>
+</div>
+
+---
+
 [Incomplete Multi-view Clustering via Diffusion Contrastive Generation]()\\
 **Yuanyang Zhang#**, Yijie Lin#, Weiqing Yan, Li Yao<sup>†</sup>, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu
 
@@ -77,11 +89,12 @@ Weiqing Yan, **Yuanyang Zhang**, Chenlei Lv, Chang Tang<sup>†</sup>, Guanghui 
 
 ---
 
+<!--
 ## Under Review
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/MS2FA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-branch Space Sharing Feature Aggregation Network for Dual Contrastive Multi-view Representation Learning]()\\
+[Multi-branch Space Sharing Feature Aggregation for contrastive multi-view clustering]()\\
 **Yuanyang Zhang**, Weiqing Yan<sup>†</sup>, Chang Tang, Wujie Zhou, Jian Jin
 
 [[Paper]]() [[Code]]()
@@ -89,6 +102,7 @@ Weiqing Yan, **Yuanyang Zhang**, Chenlei Lv, Chang Tang<sup>†</sup>, Guanghui 
 </div>
 
 ---
+-->
 
 # 🎖 Honors and Awards
 - *2023.10* Outstanding Graduate Students of Yantai University.
