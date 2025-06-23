@@ -24,6 +24,7 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 **Contact**: zhangyuanyang@seu.edu.cn
 
 # 🔥 News
+- *2025.4*: &nbsp; One paper was accepted by Pattern Recognition. 
 - *2024.12*: &nbsp; One paper about diffusion clustering was accepted by AAAI Conference on Artificial Intelligence. Thanks to all coauthors!
 - *2024.08*: &nbsp; One paper about 3D Gaussian was accepted by Pacific Graphics 2024. Congrats to Jingjiao.
 - *2024.02*: &nbsp; One paper was accepted by IEEE Transactions on Neural Networks and Learning Systems.
