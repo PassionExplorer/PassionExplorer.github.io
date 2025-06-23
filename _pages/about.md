@@ -32,7 +32,7 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/MS2FA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/papers/MS2FA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-branch Space Sharing Feature Aggregation for contrastive multi-view clustering]()\\
