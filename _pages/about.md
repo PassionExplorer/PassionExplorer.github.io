@@ -24,6 +24,7 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 **Contact**: zhangyuanyang@seu.edu.cn
 
 # 🔥 News
+
 - *2025.4*: &nbsp; One paper was accepted by Pattern Recognition. 
 - *2024.12*: &nbsp; One paper about diffusion clustering was accepted by AAAI Conference on Artificial Intelligence. Thanks to all coauthors!
 - *2024.08*: &nbsp; One paper about 3D Gaussian was accepted by Pacific Graphics 2024. Congrats to Jingjiao.
@@ -35,10 +36,10 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/papers/MS2FA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-branch Space Sharing Feature Aggregation for contrastive multi-view clustering]()\\
+[Multi-branch Space Sharing Feature Aggregation for contrastive multi-view clustering](https://www.sciencedirect.com/science/article/pii/S0031320325003644)\\
 **Yuanyang Zhang**, Weiqing Yan<sup>†</sup>, Chang Tang, Wujie Zhou, Jian Jin
 
-[[Paper]]() [[Code]]()
+[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325003644) [Code](https://github.com/zhangyuanyang21/MS2FA-CMVC)
 </div>
 </div>
 
@@ -47,10 +48,10 @@ I am a Ph.D Student in School of Computer Science and Engineering, Southeast Uni
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/papers/DCG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Incomplete Multi-view Clustering via Diffusion Contrastive Generation]()\\
+[Incomplete Multi-view Clustering via Diffusion Contrastive Generation](https://ojs.aaai.org/index.php/AAAI/article/view/34424)\\
 **Yuanyang Zhang#**, Yijie Lin#, Weiqing Yan, Li Yao<sup>†</sup>, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu
 
-[Paper]() [Code]()
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34424) [Code](https://github.com/zhangyuanyang21/2025-AAAI-DCG)
 </div>
 </div>
 
