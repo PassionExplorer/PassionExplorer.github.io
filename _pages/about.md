@@ -90,20 +90,6 @@ Weiqing Yan, **Yuanyang Zhang**, Chenlei Lv, Chang Tang<sup>†</sup>, Guanghui 
 
 ---
 
-<!--
-## Under Review
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/MS2FA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Multi-branch Space Sharing Feature Aggregation for contrastive multi-view clustering]()\\
-**Yuanyang Zhang**, Weiqing Yan<sup>†</sup>, Chang Tang, Wujie Zhou, Jian Jin
-
-[[Paper]]() [[Code]]()
-</div>
-</div>
-
----
--->
 
 # 🎖 Honors and Awards
 - *2023.10* Outstanding Graduate Students of Yantai University.
